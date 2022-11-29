@@ -4,7 +4,7 @@ e1=0
 c50=0
 c20=0
 c10=0
-
+#Bro eres un paquete, vaya programa de mierdecilla, a ver si aprendemos más tio primo
 e2=(int) (input("Dime cuantas monedas de 2€ tenemos \n"))
 e1=(int) (input("Dime cuantas monedas de 1€ tenemos \n"))
 c50=(int) (input("Dime cuantas monedas de 50 céntimos tenemos \n"))
